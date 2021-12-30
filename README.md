@@ -1,1 +1,1 @@
-# NLP_with_spaCy
+# Natural Language Processing with spaCy & Python
